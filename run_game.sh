@@ -1,0 +1,2 @@
+java -jar /home/will/Documents/Competitions/TankGame/TANK_GAME_RELEASE/tank-engine.jar /home/will/Documents/Competitions/TankGame/Tank-Game-Bot/bin /home/will/Documents/Competitions/TankGame/TANK_GAME_RELEASE/Benchmark0
+java -jar /home/will/Documents/Competitions/TankGame/TANK_GAME_RELEASE/tank-vis.jar replays/latest_replay.log
